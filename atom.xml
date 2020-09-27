@@ -121,11 +121,11 @@
       <category term="Sundries" scheme="http://yoursite.com/categories/Sundries/"/>
     
     
-      <category term="ES6" scheme="http://yoursite.com/tags/ES6/"/>
-    
       <category term="angular" scheme="http://yoursite.com/tags/angular/"/>
     
       <category term="iview" scheme="http://yoursite.com/tags/iview/"/>
+    
+      <category term="ES6" scheme="http://yoursite.com/tags/ES6/"/>
     
   </entry>
   
